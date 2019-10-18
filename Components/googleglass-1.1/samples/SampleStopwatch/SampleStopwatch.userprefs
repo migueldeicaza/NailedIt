@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../../NailedIt/MainActivity.cs" Line="42" Column="5" />
+      <File FileName="SampleStopwatch/StopwatchService.cs" Line="64" Column="35" />
+      <File FileName="../../../../NailedIt/Resources/xml/voice_trigger_start.xml" Line="17" Column="34" />
+      <File FileName="SampleStopwatch/Resources/values/strings.xml" Line="22" Column="5" />
+      <File FileName="../../../../NailedIt/Resources/values/Strings.xml" Line="5" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="NailedIt" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True">
+              <Node name="ComponentReference" selected="True" />
+            </Node>
+            <Node name="Resources" expanded="True">
+              <Node name="values" expanded="True" />
+              <Node name="xml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
